@@ -1,0 +1,9 @@
+Flask
+numpy
+scipy
+nltk
+scikit-learn
+pandas
+tmdbv3api
+requests==2.23.0
+pickleshare
